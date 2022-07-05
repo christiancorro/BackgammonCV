@@ -1,0 +1,5 @@
+opencv-python
+shapely
+pygame
+progress
+keyboard
